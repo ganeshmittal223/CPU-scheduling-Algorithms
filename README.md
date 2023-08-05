@@ -46,7 +46,7 @@ This project is open-source and is licensed under the [MIT License](https://open
 
 ## Contact Us
 
-If you have any questions, suggestions, or feedback, feel free to contact us at [contact@cpuscheduling-simulator.com](mailto:ganeshmitta223@gmail.com).
+If you have any questions, suggestions, or feedback, feel free to contact us at [ganeshmitta223@gmail.com](mailto:ganeshmitta223@gmail.com) [darpanmitta2002@gmail.com](mailto:darpanmitta2002@gmail.com).
 
 Enjoy exploring CPU scheduling algorithms in action!
 
